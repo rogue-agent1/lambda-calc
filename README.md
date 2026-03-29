@@ -1,11 +1,11 @@
 # lambda_calc
 
-lambda_calc - Lambda calculus interpreter with Church encodings.
+lambda_calc: Lambda calculus interpreter with Church encoding.
 
-Zero-dependency, single-file Python CLI.
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 lambda_calc.py
+python3 lambda_calc.py test
 ```
